@@ -1,3 +1,7 @@
 Q1: Why might be consider using git?
 
 Answer: Easy for many people to work on at the same time.
+
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+Answer: Finance generates a lot of data so data science can be useful for it.
